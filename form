@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+<Title>EMPLOYEE INTERESTS SURVEY FORM </title></head>
+
+  <body>
+<form action="http://google.co.in">
+  <div align ="center">
+    <h1>Employee interest survey form <h1>
+      
+        enter your name :
+      <input type ="text" name="username" size=34  value=" ">
+      </br> </br>
+    
+        enter your department: <input type="text " name="dept" size=20 value=" ">
+    </br> </br>
+    
+    tell us about yourself : 
+    
+ <textarea = "comment"  col=30 row=4 > </textarea> </br></br>
+    
+     do you exercise at home <input type="radio"  name="exe"  value=1 >yes
+
+<input type="radio" name="exe" value=0>no </br> </br>
+
+how do you like to read about your favourite topics ??</br> </br>
+<p>
+<input type="checkbox" name="books" >Books
+  <input type="checkbox" name="online resource "  >Online resource
+  <input type ="checkbox" name="other resource" >Other resource
+  <input type="checkbox" name="magazines">Magzines
+  
+</p>
+
+what genre movies do you like ??
+<select name="moviepref"> <option>
+  <option value=1 selected ="true">comedy
+    <option value =2 >romance
+      <option value=3>action
+        <option value=4>horror
+          <option value=5>fun 
+            </select>
+</br> </br>
+
+what kind of color do you like ??
+<select names="color pref" > <option>
+  <option value =1  SELECTED="true">COMEDY
+    <option value=2>blue
+      <option value=3>green
+       </select> </br> <br>
+
+<input type="submit" name="submit form" value="submit form" >
+    
+  
+  </body>
+    </form>
+  </html>
+  
